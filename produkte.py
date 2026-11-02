@@ -35,3 +35,4 @@ class PhysischesProdukt(Produkt):
 
     def berechne_gesamtkosten(self) -> float:
         return self.preis + (self.gewicht_kg * 2.5)
+
