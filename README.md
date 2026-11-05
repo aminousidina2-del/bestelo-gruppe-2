@@ -7,5 +7,5 @@ Teamleitung: Mohamed lemine sidina – Steuerung des Repositories & Projektverwa
 Entwickler (Kunden):Mohamed lemine sidina – Implementierung von `kunden.py`
 Entwickler (Produkte):Mohamed lemine sidina – Implementierung von `produkte.py`
 Entwickler (Bestellungen):Mohamed lemine sidina – Implementierung von `bestellungen.py`
-Qualitätssicherung & Tests:Mohamed lemine sidina – Unterstützung durch KI bei der Erstellung und Optimierung der Testfälle (`test_bestelo.py`)
+Qualitätssicherung & Tests:Mohamed lemine sidina – Implementierung von`test_bestelo.py`
 
